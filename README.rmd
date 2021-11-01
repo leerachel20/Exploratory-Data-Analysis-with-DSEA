@@ -1,16 +1,16 @@
 # Exploratory-Data-Analysis-with-DSEA
 
-Dataset description
+## Dataset description
 
-There are 14 features(Columns) including the target. The data set includes features like:
+# There are 14 features(Columns) including the target. The data set includes features like:
 
-slope_of_peak_exercise_st_segment (type: int): the slope of the peak exercise ST segment, an electrocardiography read out indicating quality of blood flow to the heart
+- slope_of_peak_exercise_st_segment (type: int): the slope of the peak exercise ST segment, an electrocardiography read out indicating quality of blood flow to the heart
 
-thal (type: categorical): results of thallium stress test measuring blood flow to the heart, with possible values normal, fixed_defect, reversible_defect
+- thal (type: categorical): results of thallium stress test measuring blood flow to the heart, with possible values normal, fixed_defect, reversible_defect
 
-resting_blood_pressure (type: int): resting blood pressure
+- resting_blood_pressure (type: int): resting blood pressure
 
-chest_pain_type (type: int): chest pain type (4 values)
+- chest_pain_type (type: int): chest pain type (4 values)
 
 num_major_vessels (type: int): number of major vessels (0-3) colored by flourosopy
 
