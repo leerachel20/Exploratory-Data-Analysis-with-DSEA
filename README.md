@@ -29,3 +29,4 @@
 * max_heart_rate_achieved (type: int): maximum heart rate achieved (beats per minute)
 
 * exercise_induced_angina (type: binary): exercise-induced chest pain (0: False, 1: True)
+
