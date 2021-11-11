@@ -33,12 +33,12 @@
 
 
 
-age - age in years
-sex - (1 = male; 0 = female)
-cp - chest pain type
-0: Typical angina: chest pain related decrease blood supply to the heart
-1: Atypical angina: chest pain not related to heart
-2: Non-anginal pain: typically esophageal spasms (non heart related)
+* age - age in years
+* sex - (1 = male; 0 = female)
+* cp - chest pain type
+** 0: Typical angina: chest pain related decrease blood supply to the heart
+** 1: Atypical angina: chest pain not related to heart
+** 2: Non-anginal pain: typically esophageal spasms (non heart related)
 3: Asymptomatic: chest pain not showing signs of disease
 trestbps - resting blood pressure (in mm Hg on admission to the hospital)
 anything above 130-140 is typically cause for concern
