@@ -2,7 +2,7 @@
 
 ## Dataset description
 
-### There are 14 features(Columns) including the target. The data set includes features like:
+### There are 14 features(Columns) including the target. The data set includes features like: 
 
 1. age - age in years
 2. sex - (1 = male; 0 = female)
